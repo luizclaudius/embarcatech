@@ -1,0 +1,1 @@
+ALSongs é um compositor musical feito na placa BitDogLab fornecida pelo programa Embarcatech e permite a seleção de notas na ordem do teclado musical, inclusão e exclusão de notas pelo joystick, bem como tocá-la com o pressionar do botão do joystick
